@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+To live is Christ and to die is gain.
 Use the left arrow to go back!
